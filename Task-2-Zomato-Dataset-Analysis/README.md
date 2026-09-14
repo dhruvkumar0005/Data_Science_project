@@ -3,7 +3,7 @@
 ## 📌 Project Overview & Goal
 This project provides a comprehensive exploratory data analysis (EDA) and predictive modeling pipeline on the Zomato restaurant dataset in Bangalore. 
 
-**Primary Goal:** Analyze restaurant and review data to extract key insights regarding ratings, cuisines, location preferences, price points, and service features—translating findings into **5 strategic recommendations** for an **Alfido Tech**–style food discovery and delivery platform.
+**Primary Goal:** Analyze restaurant and review data to extract key insights regarding ratings, cuisines, location preferences, price points, and service features—translating findings into **5 strategic recommendations** –style food discovery and delivery platform.
 
 ---
 
@@ -71,7 +71,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn wordcloud joblib jupyte
 
 ---
 
-## 💡 Strategic Recommendations for Alfido Tech Platform
+## 💡 Strategic Recommendations 
 
 1. **Strategic Restaurant & Location Partnerships:** Focus onboarding campaigns on high-volume, high-engagement hubs (*BTM*, *Koramangala*, *Indiranagar*) to rapidly build platform liquidity.
 2. **Curated Content & Theme Discovery:** Implement theme collections based on dish wordclouds (e.g., *"Top Biryani Destinations"*, *"Late-Night Desserts"*) to boost click-through rates and session duration.
