@@ -1,6 +1,6 @@
-# 📸 Instagram Data Analysis & Strategy Platform | Alfido Tech
+# 📸 Instagram Data Analysis & Strategy Platform 
 
-An end-to-end data science project analyzing Instagram posts and audience engagement patterns to identify best posting schedules, high-performing content formats, hashtag density rules, and follower growth signals for **Alfido Tech**.
+An end-to-end data science project analyzing Instagram posts and audience engagement patterns to identify best posting schedules, high-performing content formats, hashtag density rules, and follower.
 
 Features an interactive **Jupyter Analysis Notebook**, a serialized **Machine Learning Model**, exported **Data Visualizations**, a 1-page **Executive Strategy Document**, and a **Streamlit Web Application** featuring a real-time **Post Engagement Predictor Tool**.
 
@@ -12,7 +12,7 @@ Features an interactive **Jupyter Analysis Notebook**, a serialized **Machine Le
 * **Exploratory Data Analysis (EDA)**: Analyze 24-hour posting schedules, weekly engagement trends, content photo types, Instagram filters, hashtag counts, and user follower activity.
 * **Predictive ML Model**: Train and evaluate a Random Forest Regressor to forecast post engagement and save the trained pipeline to `models/engagement_model.pkl`.
 * **Export Visual Assets**: Automatically export all EDA charts into the `images/` directory.
-* **Alfido Tech Deliverables**: Provide a 1-page **Strategy Document** (`strategy_document.md`) with a weekly content calendar and 5 actionable growth strategies.
+* **Deliverables**: Provide a 1-page **Strategy Document** (`strategy_document.md`) with a weekly content calendar and 5 actionable growth strategies.
 * **Interactive Frontend**: Deploy a **Streamlit App** (`app.py`) for executive overview, interactive EDA, live engagement prediction, and deliverable downloads.
 
 ---
@@ -20,7 +20,7 @@ Features an interactive **Jupyter Analysis Notebook**, a serialized **Machine Le
 ## 📁 Repository Structure
 
 ```
-d:/Internship_project/Instagram Data Analysis/
+
 │
 ├── Dataset/                        # Raw Relational CSV Datasets (7 files)
 │   ├── comments.csv                # Comment text, timestamps, emojis, hashtag counts
@@ -67,7 +67,7 @@ d:/Internship_project/Instagram Data Analysis/
 
 ---
 
-## 📅 Recommended Alfido Tech Content Calendar
+## 📅 Recommended Content Calendar
 
 | Day | Optimal Window | Format | Target Content Theme | Goal Metric |
 | :--- | :--- | :--- | :--- | :--- |
@@ -114,7 +114,3 @@ streamlit run app.py
 ```
 
 ---
-
-## 📄 License & Attribution
-* **Dataset Source**: Kaggle Instagram Dataset (`bhanupratapbiswas/instgram`)
-* **Project Organization**: Alfido Tech Data Science & AI Internship Program
